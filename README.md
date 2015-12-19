@@ -1,5 +1,5 @@
 # fin1
-  Dennis Scheglov     Josh Pelton
+  Dennis Scheglov,     Josh Pelton.
   In this project, we are given a formula to use to calculate pi as a perimeter of an n-sided polygon.
   The formula undergoes extreme precision loss because of the way that floating point numbers work.
   Floating point precision gets denser the closer one gets to zero. The formula, sqrt((1-(sqrt(1-sin(a)^2)))/2), starts with 
